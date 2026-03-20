@@ -1,0 +1,7 @@
+{
+  "name": "mypy-type-checking",
+  "description": "mypy static type checking workflow for Python projects",
+  "author": {
+    "name": "soruma"
+  }
+}
